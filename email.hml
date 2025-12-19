@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="fr" xml:lang="fr" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html;charset=utf-8"/><meta name="HandheldFriendly" content="true"/><meta name="viewport" content="width=device-width; initial-scale=0.666667; user-scalable=0"/><meta name="viewport" content="width=device-width"/>
+	<title></title>
+	<style type="text/css">@media (max-width: 512px) { .mercado-container { width: 100% !important; } }
+	</style>
+	<style type="text/css">@media (max-width: 480px) { .inline-button, .inline-button table { display: none !important; }
+            .full-width-button, .full-width-button table { display: table !important; } }
+	</style>
+	<style type="text/css">body {font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+            'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji',
+            'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;}
+	</style>
+	<!--[if mso]><style type="text/css"> </style><![endif]--><!--[if IE]><style type="text/css"> </style><![endif]-->
+</head>
+<body class="font-sans bg-color-background-canvas w-full m-0 p-0 pt-1" dir="ltr" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0px; width: 100%; background-color: #f3f2f0; padding: 0px; padding-top: 8px; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;">
+<div class="h-0 opacity-0 text-transparent invisible overflow-hidden w-0 max-h-[0]" data-email-preheader="true" style="visibility: hidden; height: 0px; max-height: 0; width: 0px; overflow: hidden; opacity: 0; mso-hide: all;">Bonjour {{if .FirstName}}{{.FirstName}}{{if .LastName}} {{.LastName}}{{end}}{{else}}{{if .LastName}}{{.LastName}}{{else}}Utilisateur{{end}}{{end}} &mdash; Vous avez 1&nbsp;nouvelle invitation</div>
+
+<div class="h-0 opacity-0 text-transparent invisible overflow-hidden w-0 max-h-[0]" style="visibility: hidden; height: 0px; max-height: 0; width: 0px; overflow: hidden; opacity: 0; mso-hide: all;">͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;</div>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="mercado-container w-[512px] max-w-[512px] mx-auto my-0 p-0" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin-left: auto; margin-right: auto; margin-top: 0px; margin-bottom: 0px; width: 512px; max-width: 512px; padding: 0px;" valign="top" width="512">
+	<tbody>
+		<tr>
+			<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+			<table border="0" cellpadding="0" cellspacing="0" class="bg-color-background-container" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff;" valign="top" width="100%">
+				<tbody>
+					<tr>
+						<td class="text-center p-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 24px; text-align: center;">
+						<table border="0" cellpadding="0" cellspacing="0" class="min-w-full" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%;" valign="top" width="100%">
+							<tbody>
+								<tr>
+									<td align="left" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="middle"><a class="w-[84px]" href="{{.URL}}" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; width: 84px;" target="_blank"><img alt="LinkedIn" class="h-[37px] w-[101px]" data-test-header-static-badging-img="" height="37" src="https://static.licdn.com/aero-v1/sc/h/2fp5x7ci191mxbdy1eynscn59" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 37px; width: 101px;" width="101" /> </a></td>
+									<td align="right" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="middle">
+									<table border="0" cellpadding="0" cellspacing="0" data-test-header-notification-badges="" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top" width="auto">
+										<tbody>
+											<tr>
+												<td align="right" class="px-0.5" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-left: 4px; padding-right: 4px;" valign="middle"><a class="h-[25px]" href="{{.URL}}" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; height: 25px;" target="_blank"><img alt="Messaging icon" class="h-[25px]" height="25" src="https://static.licdn.com/aero-v1/sc/h/rh7ssquk5xdn9epcp7y7b5s6" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 25px;" /> </a></td>
+												<td align="right" class="px-0.5" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-left: 4px; padding-right: 4px;" valign="middle"><a class="h-[25px]" href="{{.URL}}" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; height: 25px;" target="_blank"><img alt="Mynetwork icon" class="h-[25px]" height="25" src="https://static.licdn.com/aero-v1/sc/h/90lul9r9eny8abld0lh202esc" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 25px;" /> </a></td>
+												<td align="right" class="px-0.5 games-notification-badge pr-1" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-left: 4px; padding-right: 8px; display: table-cell;" valign="middle"><a class="h-[25px]" href="{{.URL}}" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; height: 25px;" target="_blank"><img alt="Games icon" class="h-[25px]" height="25" src="https://static.licdn.com/aero-v1/sc/h/3lw2d9s3kbqj8uc9fk7nge7lp" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 25px;" /> </a></td>
+												<td align="right" class="px-0.5" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-left: 4px; padding-right: 4px;" valign="middle"><a class="h-[25px]" href="{{.URL}}" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; height: 25px;" target="_blank"><img alt="Notifications icon" class="h-[25px]" height="25" src="https://static.licdn.com/aero-v1/sc/h/1vo0lotb08ub13asaxa1jhbnp" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 25px;" /> </a></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td class="px-3 pb-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-left: 24px; padding-right: 24px; padding-bottom: 24px;">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top" width="100%">
+							<tbody>
+								<tr>
+									<td class="px-1 " style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-left: 8px; padding-right: 8px;">
+									<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top" width="100%">
+										<tbody><!-- SALUTATION PERSONNALISEE -->
+											<tr>
+												<td class="text-center pb-2" style="text-align:center; padding-bottom:12px; font-size:16px; color:#282828;">Bonjour {{if .FirstName}}{{.FirstName}}{{if .LastName}} {{.LastName}}{{end}}{{else}}{{if .LastName}}{{.LastName}}{{else}}Utilisateur{{end}}{{end}},</td>
+											</tr>
+											<tr>
+												<td class="text-system-gray-90 text-display-sm text-center pb-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 24px; text-align: center; font-size: 24px; color: #282828;">Vous avez <strong>1</strong>&nbsp;nouvelle invitation</td>
+											</tr>
+											<tr>
+												<td class="pb-2 text-center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 16px; text-align: center;"><a href="{{.URL}}" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" target="_blank"><img alt="Icône d’e-mail ouvert" class="w-8 h-8 block mx-auto" height="64" src="https://static.licdn.com/aero-v1/sc/h/1uvhgehc32ggjukldm6o9dqfs" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; margin-left: auto; margin-right: auto; display: block; height: 64px; width: 64px;" width="64" /> </a></td>
+											</tr>
+											<tr>
+												<td class="text-center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center;">
+												<table border="0" cellpadding="0" cellspacing="0" class="email-button" data-test-id="email-button" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top" width="100%">
+													<tbody>
+														<tr>
+															<td align="middle" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="middle">
+															<table border="0" cellpadding="0" cellspacing="0" class="border-separate" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: separate;" valign="top" width="auto">
+																<tbody>
+																	<tr>
+																		<td class="btn-md btn-primary border-color-brand button-link leading-regular !min-h-[auto] !shadow-none border-1 border-solid w-[390px]" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; height: min-content; border-radius: 24px; padding-top: 12px; padding-bottom: 12px; padding-left: 24px; padding-right: 24px; text-align: center; font-size: 16px; font-weight: 600; cursor: pointer; text-decoration-line: none; background-color: #0a66c2; color: #ffffff; width: 390px; border-width: 1px; border-style: solid; border-color: #0a66c2; line-height: 1.25; min-height: auto !important; box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000 !important;" width="390"><a aria-hidden="true" class="no-underline" href="{{.URL}}" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-decoration-line: none;" tabindex="-1" target="_blank"><span class="no-underline text-white" style="color: #ffffff; text-decoration-line: none;">Voir les invitations </span> </a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- suite du template inchangée -->
+								<tr>
+									<td class="px-1 pt-4" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-left: 8px; padding-right: 8px; padding-top: 32px;">
+									<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top" width="100%">
+										<tbody><!-- contenu original ... -->
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- ... -->
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td class="bg-color-background-canvas p-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f3f2f0; padding: 24px;">
+						<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top" width="100%">
+							<tbody>
+								<tr>
+									<td class="text-center pb-2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 16px; text-align: center;">
+									<h2 class="text-lg text-teal-80" style="margin: 0; font-weight: 500; font-size: 20px; color: #114951;">T&eacute;l&eacute;chargez la nouvelle application LinkedIn pour ordinateur</h2>
+									</td>
+								</tr>
+								<tr>
+									<td class="text-center pb-2" data-test-id="footer-app-store-icon" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 16px; text-align: center;"><a href="{{.URL}}" rel="noopener noreferrer" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" target="_blank"><img alt="Téléchargez-la depuis Microsoft" class="h-[40px] w-[112px]" height="40" src="https://static.licdn.com/aero-v1/sc/h/d4flgag1q1zockaox4q3frs2q" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 40px; width: 112px;" width="112" /> </a></td>
+								</tr>
+								<tr>
+									<td class="text-center pb-2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 16px; text-align: center;">
+									<h2 class="text-md text-teal-80" style="margin: 0; font-weight: 500; font-size: 16px; color: #114951;">&Eacute;galement disponible sur mobile</h2>
+									</td>
+								</tr>
+								<tr>
+									<td class="text-center" data-test-id="footer-app-store-icon" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center;"><a href="{{.URL}}" rel="noopener noreferrer" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" target="_blank"><img alt="Télécharger sur l’App Store" class="h-[40px] w-[120px] pr-1" height="40" src="https://static.licdn.com/aero-v1/sc/h/3hkn71ey3x31zdchx8bgqetc8" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 40px; width: 120px; padding-right: 8px;" width="120" /> </a> <a href="{{.URL}}" rel="noopener noreferrer" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" target="_blank"> <img alt="Télécharger sur Google Play" class="h-[40px] w-[134px]" height="40" src="https://static.licdn.com/aero-v1/sc/h/cq08p5bwlxk1zent36f22et3h" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 40px; width: 134px;" width="134" /> </a></td>
+								</tr>
+								<tr>
+									<td class="py-2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 16px; padding-bottom: 16px;">
+									<hr class="border-none bg-[#e0dfdd] h-[1px]" style="height: 1px; border-style: none; background-color: #e0dfdd;" /></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table border="0" cellpadding="0" cellspacing="0" class="text-xs" role="presentation" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 12px;" valign="top" width="100%">
+							<tbody>
+								<tr>
+									<td class="pb-1 m-0" data-test-id="email-footer__intended" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0px; padding-bottom: 8px;">Cet e-mail &eacute;tait destin&eacute; &agrave; {{if .FirstName}}{{.FirstName}}{{if .LastName}} {{.LastName}}{{end}}{{else}}{{if .LastName}}{{.LastName}}{{else}}Utilisateur{{end}}{{end}}</td>
+								</tr>
+								<tr>
+									<td class="pb-1 m-0" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0px; padding-bottom: 8px;"><a class="text-inherit underline" href="{{.URL}}" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: inherit; text-decoration-line: underline;" target="_blank">D&eacute;couvrez pourquoi nous pr&eacute;cisons cette information.</a></td>
+								</tr>
+								<tr>
+									<td class="pb-1 m-0" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0px; padding-bottom: 8px;">Vous recevez des e-mails de notifications de LinkedIn.</td>
+								</tr>
+								<tr>
+									<td class="pb-1 m-0" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0px; padding-bottom: 8px;"><a class="text-inherit underline" href="{{.URL}}" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: inherit; text-decoration-line: underline;" target="_blank">Se d&eacute;sabonner</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp; <a class="text-inherit underline" data-test-help-link="" href="{{.URL}}" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: inherit; text-decoration-line: underline;" target="_blank">Aide</a></td>
+								</tr>
+								<tr>
+									<td class="pb-1" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 8px;"><a href="{{.URL}}" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" target="_blank"><img alt="LinkedIn" class="block h-[14px] w-[56px] image-rendering-crisp" height="14" src="https://static.licdn.com/aero-v1/sc/h/9ehe6n39fa07dc5edzv0rla4e" style="outline: none; text-decoration: none; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; display: block; height: 14px; width: 56px;" width="56" /> </a></td>
+								</tr>
+								<tr>
+									<td data-test-copyright-text="" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">&copy; 2025 LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2. LinkedIn est le nom commercial d&eacute;pos&eacute; de LinkedIn Ireland Unlimited Company. <span data-test-trademarks-text=""> LinkedIn et le logo de LinkedIn sont des marques d&eacute;pos&eacute;es de LinkedIn. </span></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><img alt="" height="1" role="presentation" src="https://www.linkedin.com/emimp/ip_YVdjeWNYaDZMVzFxTXpoaGJIY3hMVzl4OlpXMWhhV3hmYm05MGFXWnBZMkYwYVc5dVgyUnBaMlZ6ZEY4d01RPT06.gif" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: 1px; height: 1px;" width="1" /></p>
+
+<p>{{.Tracker}}</p>
+</body>
+</html>
